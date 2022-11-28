@@ -1,5 +1,5 @@
-### Javascript Projects
-I completed some of this projects while studying javascript on FreeCodeCamp.
+## Javascript Projects
+I completed some of this projects while studying javascript on freeCodeCamp.
 #### Palindrome Checker [View Code](https://github.com/jenniferobidike/Javascript-Projects/blob/master/palindromeChecker.js):
 This code returns true if the given string is a palindrome. Otherwise, return false. A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing. I made sure to remove all non-alphanumeric characters (punctuation, spaces and symbols) and turn everything into the same case (lower or upper case) in order to check for the palindromes.
 #### Roman Numeral Converter [View Code](https://github.com/jenniferobidike/Javascript-Projects/blob/master/romanNumeralConverter.js):
@@ -12,3 +12,6 @@ For this challenge, I was presented with a string such as5555555555, 1 555 555 5
 #### Cash Register [View Code](https://github.com/jenniferobidike/Javascript-Projects/blob/master/cashRegister.js):
 I wroted a function for a cash register drawer, function checkCashRegister() that accepts purchase price as the first argument (price), payment as the second argument (cash), and cash-in-drawer (cid) as the third argument. 
 The function always returned an object with a status key and a change key.
+
+### freeCodeCamp Javascript Data Structures and Algorithms Certification
+![Javascript freecodecamp cert](https://user-images.githubusercontent.com/99639219/204241330-4d06a97a-96fd-4f8a-9593-cba0cea28b5c.JPG)
