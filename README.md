@@ -1,5 +1,5 @@
 ## Javascript Projects
-I completed some of this projects while studying javascript on freeCodeCamp.
+I completed some of these projects while studying javascript on freeCodeCamp.
 #### Palindrome Checker [View Code](https://github.com/jenniferobidike/Javascript-Projects/blob/master/palindromeChecker.js):
 This code returns true if the given string is a palindrome. Otherwise, return false. A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing. I made sure to remove all non-alphanumeric characters (punctuation, spaces and symbols) and turn everything into the same case (lower or upper case) in order to check for the palindromes.
 #### Roman Numeral Converter [View Code](https://github.com/jenniferobidike/Javascript-Projects/blob/master/romanNumeralConverter.js):
